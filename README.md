@@ -1,4 +1,4 @@
-# MCP-Cursor-analysis-source
+# cs_ut_source
 
 一個基於React和Vite的對話分析系統，可以顯示對話歷史、消費記錄和視覺化圖表。
 
